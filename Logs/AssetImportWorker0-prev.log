@@ -1,0 +1,203 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1826; Version 2009; 64bit' Language: 'en' Physical Memory: 12176 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/FathSite/FathSite
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58881
+Successfully changed project path to: C:/FathSite/FathSite
+C:/FathSite/FathSite
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 110.70 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 1.90 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/FathSite/FathSite/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006209 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 69.58 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.44 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.540 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003773 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 81.03 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.22 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.607 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Unloading 2376 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 2838.
+Total: 3.969600 ms (FindLiveObjects: 0.491900 ms CreateObjectMapping: 0.235000 ms MarkObjects: 3.021100 ms  DeleteObjects: 0.219400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ground.mat
+  artifactKey: Guid(4a537e4162697934a8ae003cdc9d0579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ground.mat using Guid(4a537e4162697934a8ae003cdc9d0579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7882c96238067021a1435d58aef8430') in 0.358843 seconds
+  Import took 0.371210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.738939 seconds.
+  path: Assets/Universal Shooter Kit
+  artifactKey: Guid(ea748f8be9b01864bbd49e91c9780d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal Shooter Kit using Guid(ea748f8be9b01864bbd49e91c9780d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68ac3447430ed2181e965e600ca76a6') in 0.006504 seconds
+  Import took 0.012469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011311 seconds.
+  path: Assets/Universal Shooter Kit
+  artifactKey: Guid(ea748f8be9b01864bbd49e91c9780d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal Shooter Kit using Guid(ea748f8be9b01864bbd49e91c9780d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68ac3447430ed2181e965e600ca76a6') in 0.005757 seconds
+  Import took 0.011767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.634258 seconds.
+  path: Assets/Universal Shooter Kit/Framework
+  artifactKey: Guid(2727315895ff046ba8a9e759de4db4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal Shooter Kit/Framework using Guid(2727315895ff046ba8a9e759de4db4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07393fd25105b9c52be89bacb39788e') in 0.008108 seconds
+  Import took 0.014934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.437160 seconds.
+  path: Assets/Universal Shooter Kit/Demos/Scenes/Single-player/Single Demo 1.unity
+  artifactKey: Guid(9bd8622e5a54e7d438a336f7d8ece432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal Shooter Kit/Demos/Scenes/Single-player/Single Demo 1.unity using Guid(9bd8622e5a54e7d438a336f7d8ece432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade2db71ffb2de2e1acbf7a53fbadb6b') in 0.008303 seconds
+  Import took 0.014986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.336451 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(b162f90251b1418448e0a55ebb1cf635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(b162f90251b1418448e0a55ebb1cf635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd5c97ce1775a7ec8fa7648dc6a5c5d') in 0.005229 seconds
+  Import took 0.012240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090783 seconds.
+  path: Assets/Textures/1.mat
+  artifactKey: Guid(2fdd260999a56d14791ed451cd0055a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/1.mat using Guid(2fdd260999a56d14791ed451cd0055a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3dba996aaaec841b7cea87a7af917f') in 0.023458 seconds
+  Import took 0.030522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_height.tif
+  artifactKey: Guid(2b5a5924ae1edb143bff539ab4179128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_height.tif using Guid(2b5a5924ae1edb143bff539ab4179128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65e6918aa0cb8bef9e08e3887b46cbb') in 0.040694 seconds
+  Import took 0.045896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_normal.tif
+  artifactKey: Guid(10d7605b29499ea479ea5677d16e109f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_normal.tif using Guid(10d7605b29499ea479ea5677d16e109f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644b0796f59c8f171db92fa68130c861') in 0.026713 seconds
+  Import took 0.034061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_albedo.tif
+  artifactKey: Guid(a2c951bcf94802f41963fca6b6032d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_albedo.tif using Guid(a2c951bcf94802f41963fca6b6032d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdf4feccc540af75057f34e9be1dd09') in 0.019895 seconds
+  Import took 0.026444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_ao.tif
+  artifactKey: Guid(5c1eb2b6a09bd1540875be3cfeaf330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_ao.tif using Guid(5c1eb2b6a09bd1540875be3cfeaf330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2748dc13c306fbfbacf1074a721477') in 0.016529 seconds
+  Import took 0.024511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002541 seconds.
+  path: Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_ao.tif
+  artifactKey: Guid(5c1eb2b6a09bd1540875be3cfeaf330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TexturesCom_Ground_SandWavy_2x2_1K_ao.tif using Guid(5c1eb2b6a09bd1540875be3cfeaf330a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2748dc13c306fbfbacf1074a721477') in 0.014963 seconds
+  Import took 0.023822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.196552 seconds.
+  path: Assets/Textures/Terrain (1).prefab
+  artifactKey: Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Terrain (1).prefab using Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca66a07d6652af28315af681db300ec9') in 0.020995 seconds
+  Import took 0.027537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000751 seconds.
+  path: Assets/Textures/Terrain (1).prefab
+  artifactKey: Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Terrain (1).prefab using Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca66a07d6652af28315af681db300ec9') in 0.011277 seconds
+  Import took 0.021028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.674100 seconds.
+  path: Assets/Textures/New Terrain 11.asset
+  artifactKey: Guid(b70445d73d5c69e48ae81cb6d4b6728b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/New Terrain 11.asset using Guid(b70445d73d5c69e48ae81cb6d4b6728b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437970eb3640ba85ec6c5e1e2ab78e56') in 0.021506 seconds
+  Import took 0.027097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.602485 seconds.
+  path: Assets/Textures/Terrain (1).prefab
+  artifactKey: Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Terrain (1).prefab using Guid(c905c604abfe1ae4f9e22f8b8d60eb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07880ac04332336c45a2ce1cef0f792b') in 0.013191 seconds
+  Import took 0.021358 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
